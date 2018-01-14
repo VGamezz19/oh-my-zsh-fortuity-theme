@@ -1,6 +1,6 @@
 # oh-my-zsh-fortuity-theme
 
-Bunnyruni theme based on my favorite themes, functions and colors.
+My custom theme is simple, beautiful and understandable. I Love it! Enjoy it 🙂
 
 ![Alt text](themeshow.gif)
 
